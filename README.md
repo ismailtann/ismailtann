@@ -18,4 +18,4 @@ Bilecik Şeyh Edebali Üniversitesi'nde eğitimime devam ederken, **Tan Tecno** 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### 📬 Bana Ulaşın
-[LinkedIn](LİNKİNİ_BURAYA_YAPIŞTIR) | [YouTube - Tan Tecno](KANAL_LİNKİNİ_YAPIŞTIR)
+[LinkedIn](https://www.linkedin.com/in/ismailtann/) | [YouTube - Tan Tecno](https://www.youtube.com/channel/UCwDlAd9WX7z9hwfA-jphWIg)
