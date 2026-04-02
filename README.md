@@ -10,6 +10,9 @@ Bilecik Şeyh Edebali Üniversitesi'nde eğitimime devam ederken, **Tan Tecno** 
 - 🎯 **Hedef:** Oyun dünyasında iz bırakacak projeler üretmek ve profesyonel bir staj deneyimi kazanmak.
 
 ---
+### 📊 GitHub İstatistiklerim
+![İsmail's GitHub stats](https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=radical)
+![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADIN&layout=compact&theme=radical)
 
 ### 🚀 Yetenekler & Araçlar
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
