@@ -16,7 +16,7 @@ Bilecik Şeyh Edebali Üniversitesi'nde eğitimime devam ederken, **Tan Tecno** 
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![mysql](<img width="312" height="161" alt="image" src="https://github.com/user-attachments/assets/0234fa0e-cb8e-43ca-a399-ca85c49d21a8" />
+![mysql]([<img width="312" height="161" alt="image" src="https://github.com/user-attachments/assets/0234fa0e-cb8e-43ca-a399-ca85c49d21a8" />](https://www.techspot.com/downloads/470-mysql.html)
 )
 
 
