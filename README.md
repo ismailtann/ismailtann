@@ -12,7 +12,6 @@ Currently studying Computer Programming at Bilecik Şeyh Edebali University. I'm
 
 ---
 
-### 🚀 Yetenekler & Araçlar
 ### 🚀 Technologies & Tools
 
 #### 💻 Programming Languages
