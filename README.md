@@ -16,6 +16,8 @@ Bilecik Şeyh Edebali Üniversitesi'nde eğitimime devam ederken, **Tan Tecno** 
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![mysql](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
 
 ### 📬 Bana Ulaşın
 [LinkedIn](https://www.linkedin.com/in/ismailtann/) | [YouTube - Tan Tecno](https://www.youtube.com/channel/UCwDlAd9WX7z9hwfA-jphWIg)
